@@ -1,0 +1,5 @@
+{
+  "name": "ThermoSim: Advanced Convection Lab",
+  "description": "A high-fidelity 3D simulation for Grade 12 students to explore thermal convection dynamics, Rayleigh numbers, and Nusselt numbers in real-time.",
+  "requestFramePermissions": []
+}
